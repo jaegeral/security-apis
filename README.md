@@ -41,6 +41,9 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |?|
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
+| OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
+
+
 
 
 ### Various
