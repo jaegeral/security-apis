@@ -26,6 +26,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
+| Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 
 
 
@@ -38,7 +39,8 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://malwr.com/) |?|
 | VMRay | VMRay Sandbox | `apiKey` | Yes | [Link!](https://www.vmray.com/blog/v-1-9-api-now-restjson/) |?|
 | Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |?|
-| Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |?|
+| Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
+| FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
