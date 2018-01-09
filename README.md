@@ -24,6 +24,8 @@ API | Description | Auth | HTTPS | Link |
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |
+| Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |
+| Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |
 
 
 
@@ -38,9 +40,8 @@ API | Description | Auth | HTTPS | Link |
 | Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |
+| Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |
 
-
-https://www.circl.lu/doc/misp/automation/
 
 ### Various
 API | Description | Auth | HTTPS | Link |
