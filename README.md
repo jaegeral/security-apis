@@ -3,6 +3,7 @@ A collective list of public JSON APIs for use in security. https://alexanderjaeg
 
 # Index
 * [Online](#online)
+* [Tools](#tools)
 * [Various](#various)
 
 
