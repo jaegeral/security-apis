@@ -14,6 +14,14 @@ API | Description | Auth | HTTPS | Link |
 | Malwr.com | Malware analysis | `apiKey` | Yes | [Link!](https://malwr.com/) |
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |
 | FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |
+| Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://docs.aws.amazon.com/AlexaTopSites/latest/) |
+| Certly | Certly Guard | `apiKey` | Yes | [Link!](https://guard.certly.io/) |
+| DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |
+| Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://guard.certly.io/) |
+| Fireeye iSight | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |
+
+
+
 
 ## Tools
 
