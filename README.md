@@ -29,6 +29,8 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
+| emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
+| Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
 
 
 
