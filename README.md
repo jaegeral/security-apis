@@ -4,6 +4,7 @@ A collective list of public JSON APIs for use in security. https://alexanderjaeg
 # Index
 * [Online](#online)
 * [Tools](#tools)
+** [SIEM](#siem)
 * [Various](#various)
 
 
@@ -44,6 +45,10 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
+| CRITS | TI System | `apiKey` | Yes | [Link!](https://github.com/crits/crits/wiki/Authenticated-API) |?|
+| TheHive | TI System | `apiKey` | Yes | [Link!](https://blog.thehive-project.org/tag/api/) |Free|
+
+
 
 ### SIEM
 API | Description | Auth | HTTPS | Link | Free / Commercial|
