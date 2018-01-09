@@ -1,8 +1,28 @@
 # security-apis
 A collective list of public JSON APIs for use in security. https://alexanderjaeger.de
 
-#Index
+# Index
+* [Online](#online)
 * [Various](#various)
+
+
+## Online
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |
+| Malwr.com | Malware analysis | `apiKey` | Yes | [Link!](https://malwr.com/) |
+| Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |
+| FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |
+
+## Tools
+
+API | Description | Auth | HTTPS | Link |
+|---|---|---|---|---|
+| Viper.li | Viper malware repository API | `None` | No | [Link!](http://viper-framework.readthedocs.io/en/latest/usage/web.html) |
+| Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://malwr.com/) |
+
+
+http://viper-framework.readthedocs.io/en/latest/usage/web.html
 
 ### Various
 API | Description | Auth | HTTPS | Link |
