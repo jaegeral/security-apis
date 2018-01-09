@@ -4,7 +4,7 @@ A collective list of public JSON APIs for use in security. https://alexanderjaeg
 # Index
 * [Online](#online)
 * [Tools](#tools)
-** [SIEM](#siem)
+* [SIEM](#siem)
 * [Various](#various)
 
 
@@ -37,27 +37,28 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
-| Viper.li | Viper malware repository API | `None` | No | [Link!](http://viper-framework.readthedocs.io/en/latest/usage/web.html) |?|
-| Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://malwr.com/) |?|
+| Viper.li | Viper malware repository API | `None` | No | [Link!](http://viper-framework.readthedocs.io/en/latest/usage/web.html) |OpenSource|
+| Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://malwr.com/) |OpenSource|
 | VMRay | VMRay Sandbox | `apiKey` | Yes | [Link!](https://www.vmray.com/blog/v-1-9-api-now-restjson/) |?|
 | Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |?|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
-| MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
+| MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
 | CRITS | TI System | `apiKey` | Yes | [Link!](https://github.com/crits/crits/wiki/Authenticated-API) |?|
 | TheHive | TI System | `apiKey` | Yes | [Link!](https://blog.thehive-project.org/tag/api/) |Free|
+| GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
 
 
 
-### SIEM
+## SIEM
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
 | Splunk | Splunk API | `None` | No | [Link!](http://dev.splunk.com/restapi) |Commercial|
 | ArcSight | HP ArcSight API | `None` | No | [Link!](https://h41382.www4.hpe.com/gfs-shared/downloads-273.pdf) |Commercial|
 | QRadar | IBM QRadar API | `None` | No | [Link!](https://www.ibm.com/support/knowledgecenter/SSKMKU/com.ibm.qradar.doc_cloud/c_rest_api_getting_started.html) |Commercial|
-| ELK | ELK Stack API | `None` | No | [Link!](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) |Free|
+| ELK | ELK Stack API | `None` | No | [Link!](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) |OpenSource|
 
 
 
@@ -69,5 +70,5 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | Certly | Certly Link/Domain Flagging | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Link!](https://developers.google.com/safe-browsing/) |?|
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Link!](https://metacert.com/) |?|
-| VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
+| VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |Both|
 | Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
