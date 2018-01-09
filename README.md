@@ -29,9 +29,10 @@ API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Viper.li | Viper malware repository API | `None` | No | [Link!](http://viper-framework.readthedocs.io/en/latest/usage/web.html) |
 | Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://malwr.com/) |
+| VMRay | VMRay Sandbox | `apiKey` | Yes | [Link!](https://www.vmray.com/blog/v-1-9-api-now-restjson/) |
+| Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |
 
 
-http://viper-framework.readthedocs.io/en/latest/usage/web.html
 
 ### Various
 API | Description | Auth | HTTPS | Link |
