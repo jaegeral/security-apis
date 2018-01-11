@@ -31,6 +31,8 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
+| CIRCL CVE Search | CVE Search | `apiKey` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
+
 
 
 
