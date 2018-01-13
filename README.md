@@ -25,12 +25,15 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
 | Fireeye iSight | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |Commercial|
 | FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |?|
+| have i been pwned | - | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2
+) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/apikeys/info) |Free|
 | Malwr.com | Malware analysis | `apiKey` | Yes | [Link!](https://malwr.com/) |?|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
+| Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/api) |?|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
@@ -52,6 +55,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
 | Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
+| Plaso | Plaso Langar Að Safna Öllu | `apiKey` | Yes | [Link!](https://readthedocs.org/projects/plaso-api/) |OpenSource|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | Request Tracker | Ticketing System | `apiKey` | Yes | [Link!](https://rt-wiki.bestpractical.com/wiki/REST) |?|
 | Scot | SCOT - Sandia Cyber Omni Tracker Ticketing System | `apiKey` | Yes | [Link!](http://scot.readthedocs.io/en/latest/devguide.html#scot-rest-api) |Free|
@@ -79,5 +83,6 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | Cyphon | Open Source INcident Management tool | `apiKey` | Yes | [Link!](http://cyphon.readthedocs.io/en/latest/api.html) |?|
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Link!](https://developers.google.com/safe-browsing/) |?|
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Link!](https://metacert.com/) |?|
+| National Software Reference Library (NSRL) | - | `apiKey` | Yes | [Link!](https://github.com/bsi-group/nsrls) |?|
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
