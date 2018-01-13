@@ -50,6 +50,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
+| Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
 | TheHive | TI System | `apiKey` | Yes | [Link!](https://blog.thehive-project.org/tag/api/) |Free|
@@ -63,9 +64,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | ELK | ELK Stack API | `None` | No | [Link!](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) |OpenSource|
 | QRadar | IBM QRadar API | `None` | No | [Link!](https://www.ibm.com/support/knowledgecenter/SSKMKU/com.ibm.qradar.doc_cloud/c_rest_api_getting_started.html) |Commercial|
 | Splunk | Splunk API | `None` | No | [Link!](http://dev.splunk.com/restapi) |Commercial|
-
-
-
 
 ### Various
 API | Description | Auth | HTTPS | Link |Free / Commercial|
