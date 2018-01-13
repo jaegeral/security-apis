@@ -74,6 +74,7 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | Cisco PXGrid | Cisco Platform Exchange Grid | `apiKey` | Yes | [Link!](https://developer.cisco.com/site/pxgrid/) |?|
 | Cisco Security APIs | Cisco Developer Page | `` | ? | [Link!](https://developer.cisco.com/site/security/) |?|
 | Cisco Umbrella | Cisco Umbrella Enforcement API | `apiKey` | Yes | [Link!](https://docs.umbrella.com/developer/enforcement-api/) |?|
+| Cyphon | Open Source INcident Management tool | `apiKey` | Yes | [Link!](http://cyphon.readthedocs.io/en/latest/api.html) |?|
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Link!](https://developers.google.com/safe-browsing/) |?|
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Link!](https://metacert.com/) |?|
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
