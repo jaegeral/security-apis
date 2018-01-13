@@ -53,6 +53,8 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
+| Request Tracker | Ticketing System | `apiKey` | Yes | [Link!](https://rt-wiki.bestpractical.com/wiki/REST) |?|
+| Scot | SCOT - Sandia Cyber Omni Tracker Ticketing System | `apiKey` | Yes | [Link!](http://scot.readthedocs.io/en/latest/devguide.html#scot-rest-api) |Free|
 | TheHive | TI System | `apiKey` | Yes | [Link!](https://blog.thehive-project.org/tag/api/) |Free|
 | Viper.li | Viper malware repository API | `None` | No | [Link!](http://viper-framework.readthedocs.io/en/latest/usage/web.html) |OpenSource|
 | VMRay | VMRay Sandbox | `apiKey` | Yes | [Link!](https://www.vmray.com/blog/v-1-9-api-now-restjson/) |?|
