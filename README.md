@@ -16,6 +16,8 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
 | Certly | Certly Guard | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
 | CIRCL CVE Search | CVE Search | `apiKey` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
+| CrowdStrike API | TI | `apiKey` | Yes | [Link!](https://www.crowdstrike.com/blog/tech-center/get-access-crowdstrike-apis/
+) |NO|
 | Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
 | Domaintools | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |Free|
@@ -23,6 +25,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
 | Fireeye iSight | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |Commercial|
 | FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |?|
+| Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/apikeys/info) |Free|
 | Malwr.com | Malware analysis | `apiKey` | Yes | [Link!](https://malwr.com/) |?|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
@@ -34,10 +37,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | Zoomeye | CVE Search | `apiKey` | Yes | [Link!](https://www.zoomeye.org/api) |?|
 
-
-
-
-
 ## Tools
 
 API | Description | Auth | HTTPS | Link | Free / Commercial|
@@ -45,6 +44,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
 | Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://malwr.com/) |OpenSource|
 | CRITS | TI System | `apiKey` | Yes | [Link!](https://github.com/crits/crits/wiki/Authenticated-API) |?|
+| CrowdStrike falcon-orchestrator | Orchestrator | `apiKey` | Yes | [Link!](https://github.com/CrowdStrike/falcon-orchestrator/wiki/Installation-&-Deployment) |yes|
 | Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |?|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
@@ -55,9 +55,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | TheHive | TI System | `apiKey` | Yes | [Link!](https://blog.thehive-project.org/tag/api/) |Free|
 | Viper.li | Viper malware repository API | `None` | No | [Link!](http://viper-framework.readthedocs.io/en/latest/usage/web.html) |OpenSource|
 | VMRay | VMRay Sandbox | `apiKey` | Yes | [Link!](https://www.vmray.com/blog/v-1-9-api-now-restjson/) |?|
-
-
-
 
 ## SIEM
 API | Description | Auth | HTTPS | Link | Free / Commercial|
@@ -75,6 +72,11 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 |---|---|---|---|---|---|
 | AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | `apiKey` | Yes | [Link!](https://otx.alienvault.com/api/) |?|
 | Certly | Certly Link/Domain Flagging | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
+| Cisco ISE | ISE is an identity and access control policy platform | `apiKey` | Yes | [Link!](https://www.cisco.com/c/en/us/support/security/identity-services-engine/products-command-reference-list.html) |?|
+| Cisco PXGrid | Cisco Platform Exchange Grid | `apiKey` | Yes | [Link!](https://developer.cisco.com/site/pxgrid/) |?|
+| Cisco Security APIs | Cisco Developer Page | `` | ? | [Link!](https://developer.cisco.com/site/security/) |?|
+| Cisco Umbrella | Cisco Umbrella Enforcement API | `apiKey` | Yes | [Link!](https://docs.umbrella.com/developer/enforcement-api/) |?|
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Link!](https://developers.google.com/safe-browsing/) |?|
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Link!](https://metacert.com/) |?|
+| RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
