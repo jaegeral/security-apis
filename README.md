@@ -17,7 +17,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | bgpmon.net | Bgp monitoring | `?` | Yes | [Link!](https://bgpmon.net/bgpmon-web-services-api/) |?|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
 | Certly | Certly Guard | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
-| CIRCL CVE Search | CVE Search | `apiKey` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
+| CIRCL CVE Search | CVE Search | `none` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
 | Cloidsploit | Vuln Scanner | `apiKey` | Yes | [Link!](https://cloudsploit.com/api) |Free|
 | CrowdStrike API | TI | `apiKey` | Yes | [Link!](https://www.crowdstrike.com/blog/tech-center/get-access-crowdstrike-apis/) |NO|
 | Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
