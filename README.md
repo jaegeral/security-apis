@@ -11,20 +11,28 @@ A collective list of public JSON APIs for use in security. https://alexanderjaeg
 ## Online
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
+| Apility.IO API | Threat Intelligence Anti-Abuse API  | `apiKey` | Yes | [Link!](https://apidocs.apility.io/) |Free|
 | Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://docs.aws.amazon.com/AlexaTopSites/latest/) |?|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
+| bgpmon.net | Bgp monitoring | `?` | Yes | [Link!](https://bgpmon.net/bgpmon-web-services-api/) |?|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
 | Certly | Certly Guard | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
 | CIRCL CVE Search | CVE Search | `apiKey` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
+| Cloidsploit | Vuln Scanner | `apiKey` | Yes | [Link!](https://cloudsploit.com/api) |Free|
 | CrowdStrike API | TI | `apiKey` | Yes | [Link!](https://www.crowdstrike.com/blog/tech-center/get-access-crowdstrike-apis/
 ) |NO|
 | Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
+| Cybergreen | How clean is a network  | `apiKey` | Yes | [Link!](http://stats.cybergreen.net/download/) |?|
+| DDosMon | DDos Monitoring  | `apiKey` | Yes | [Link!](https://api.ddosmon.net/docs/) |?|
 | Domaintools | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |Free|
 | emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
 | Fireeye iSight | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |Commercial|
 | FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |?|
+| Flashpoint Intel | Threat Intel | `apiKey` | Yes | [Link!](https://www.flashpoint-intel.com/api/) |?|
+| Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
+| HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
 | have i been pwned | - | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2
 ) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/apikeys/info) |Free|
@@ -32,10 +40,12 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
+| NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/api) |?|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
+| Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | Zoomeye | CVE Search | `apiKey` | Yes | [Link!](https://www.zoomeye.org/api) |?|
@@ -54,6 +64,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
 | Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
+| Metasploit | Exploiting | `apiKey` | Yes | [Link!](http://rapid7.github.io/metasploit-framework/api/) |Commercial|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
 | Plaso | Plaso Langar Að Safna Öllu | `apiKey` | Yes | [Link!](https://readthedocs.org/projects/plaso-api/) |OpenSource|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
