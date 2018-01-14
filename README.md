@@ -23,11 +23,11 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
 | Cybergreen | How clean is a network  | `apiKey` | Yes | [Link!](http://stats.cybergreen.net/download/) |?|
 | DDosMon | DDos Monitoring  | `apiKey` | Yes | [Link!](https://api.ddosmon.net/docs/) |?|
-| Domaintools | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
+| Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |Free|
 | emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
-| Fireeye iSight | Comercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |Commercial|
+| Fireeye iSight | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |Commercial|
 | FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |?|
 | Flashpoint Intel | Threat Intel | `apiKey` | Yes | [Link!](https://www.flashpoint-intel.com/api/) |?|
 | Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
