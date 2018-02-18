@@ -59,7 +59,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |?|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
-| Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
+| Kolide Fleet | osQuery fleet management | `?` | Yes | [Link!](https://github.com/kolide/fleet/blob/master/docs/api/README.md) |OpenSource|
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
 | Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
 | Metasploit | Exploiting | `apiKey` | Yes | [Link!](http://rapid7.github.io/metasploit-framework/api/) |Commercial|
