@@ -47,6 +47,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
+| vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://vulners.com/docs) |?|
 | Zoomeye | CVE Search | `apiKey` | Yes | [Link!](https://www.zoomeye.org/api) |?|
 
 ## Tools
