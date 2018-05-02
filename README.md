@@ -71,7 +71,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Request Tracker | Ticketing System | `apiKey` | Yes | [Link!](https://rt-wiki.bestpractical.com/wiki/REST) |?|
 | Scot | SCOT - Sandia Cyber Omni Tracker Ticketing System | `apiKey` | Yes | [Link!](http://scot.readthedocs.io/en/latest/devguide.html#scot-rest-api) |Free|
 | TheHive | Security Incident Response Platform | `apiKey` | Yes | [Link!](https://blog.thehive-project.org/tag/api/) |Free|
-| Viper.li | Viper malware repository API | `None` | No | [Link!](http://viper-framework.readthedocs.io/en/latest/usage/web.html) |OpenSource|
+| Viper.li | Viper malware repository API | `apiKey` | No | [Link!](https://github.com/viper-framework/viper/blob/master/docs/source/usage/web.rst) |OpenSource|
 | VMRay | VMRay Sandbox | `apiKey` | Yes | [Link!](https://www.vmray.com/blog/v-1-9-api-now-restjson/) |?|
 
 ## SIEM
