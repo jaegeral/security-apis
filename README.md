@@ -59,6 +59,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | CRITS | TI System | `apiKey` | Yes | [Link!](https://github.com/crits/crits/wiki/Authenticated-API) |?|
 | CrowdStrike falcon-orchestrator | Orchestrator | `apiKey` | Yes | [Link!](https://github.com/CrowdStrike/falcon-orchestrator/wiki/Installation-&-Deployment) |yes|
 | Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |?|
+| emlrender | EML file rendering tool | `password` | Yes | [Link!](https://github.com/xme/emlrender) |OpenSource|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
 | Kolide Fleet | osQuery fleet management | `?` | Yes | [Link!](https://github.com/kolide/fleet/blob/master/docs/api/README.md) |OpenSource|
