@@ -34,7 +34,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
 | HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
 | have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2) |?|
-| Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/apikeys/info) |Free|
+| Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
 | Malwr.com | Malware analysis | `apiKey` | Yes | [Link!](https://malwr.com/) |?|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
@@ -48,6 +48,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://vulners.com/docs) |?|
+| whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
 | Zoomeye | CVE Search | `apiKey` | Yes | [Link!](https://www.zoomeye.org/api) |?|
 
 ## Tools
@@ -63,6 +64,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
 | Kolide Fleet | osQuery fleet management | `?` | Yes | [Link!](https://github.com/kolide/fleet/blob/master/docs/api/README.md) |OpenSource|
+|Lastline | Lastline Enterprise | `ApiKey` | Yes | [Link!](https://user.lastline.com/papi-doc/api/html/index.html) | Commercial |
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
 | Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
 | Metasploit | Exploiting | `apiKey` | Yes | [Link!](http://rapid7.github.io/metasploit-framework/api/) |Commercial|
