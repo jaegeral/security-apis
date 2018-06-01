@@ -33,7 +33,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Flashpoint Intel | Threat Intel | `apiKey` | Yes | [Link!](https://www.flashpoint-intel.com/api/) |?|
 | Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
 | HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
-| have i been pwned | - | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2) |?|
+| have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
 | Malwr.com | Malware analysis | `apiKey` | Yes | [Link!](https://malwr.com/) |?|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
