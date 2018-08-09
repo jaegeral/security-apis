@@ -80,10 +80,13 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 ## SIEM
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
-| ArcSight | HP ArcSight API | `None` | No | [Link!](https://h41382.www4.hpe.com/gfs-shared/downloads-273.pdf) |Commercial|
-| ELK | ELK Stack API | `None` | No | [Link!](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) |OpenSource|
-| QRadar | IBM QRadar API | `None` | No | [Link!](https://www.ibm.com/support/knowledgecenter/SSKMKU/com.ibm.qradar.doc_cloud/c_rest_api_getting_started.html) |Commercial|
-| Splunk | Splunk API | `None` | No | [Link!](http://dev.splunk.com/restapi) |Commercial|
+| ArcSight | HP ArcSight API | `None` | `No` | [Link!](https://h41382.www4.hpe.com/gfs-shared/downloads-273.pdf) | Commercial |
+| AlienVault | AlienVault API | `Yes` | `Yes` | [Link!](https://www.alienvault.com/documentation/api/av-apis.htm) | Commercial |
+| ELK | ELK Stack API | `None` | `No` | [Link!](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) | OpenSource |
+| Gravwell | Gravwell API | `Yes` | `Yes` | [Link!](https://dev.gravwell.io/docs/#!api/api.md) | Community / Commercial |
+| Humio | Humio API | `Yes` | `Yes` | [Link!](https://docs.humio.com/api/)| Community / Commercial |
+| QRadar | IBM QRadar API | `None` | `No` | [Link!](https://www.ibm.com/support/knowledgecenter/SSKMKU/com.ibm.qradar.doc_cloud/c_rest_api_getting_started.html) |Commercial|
+| Splunk | Splunk API | `None` | `No` | [Link!](http://dev.splunk.com/restapi) |Commercial|
 
 ### Various
 API | Description | Auth | HTTPS | Link |Free / Commercial|
