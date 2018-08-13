@@ -80,10 +80,13 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 ## SIEM
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
-| ArcSight | HP ArcSight API | `None` | No | [Link!](https://h41382.www4.hpe.com/gfs-shared/downloads-273.pdf) |Commercial|
-| ELK | ELK Stack API | `None` | No | [Link!](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) |OpenSource|
-| QRadar | IBM QRadar API | `None` | No | [Link!](https://www.ibm.com/support/knowledgecenter/SSKMKU/com.ibm.qradar.doc_cloud/c_rest_api_getting_started.html) |Commercial|
-| Splunk | Splunk API | `None` | No | [Link!](http://dev.splunk.com/restapi) |Commercial|
+| ArcSight | HP ArcSight API | `None` | `No` | [Link!](https://h41382.www4.hpe.com/gfs-shared/downloads-273.pdf) | Commercial |
+| AlienVault | AlienVault API | `Yes` | `Yes` | [Link!](https://www.alienvault.com/documentation/api/av-apis.htm) | Commercial |
+| ELK | ELK Stack API | `None` | `No` | [Link!](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs.html) | OpenSource |
+| Gravwell | Gravwell API | `Yes` | `Yes` | [Link!](https://dev.gravwell.io/docs/#!api/api.md) | Community / Commercial |
+| Humio | Humio API | `Yes` | `Yes` | [Link!](https://docs.humio.com/api/)| Community / Commercial |
+| QRadar | IBM QRadar API | `None` | `No` | [Link!](https://www.ibm.com/support/knowledgecenter/SSKMKU/com.ibm.qradar.doc_cloud/c_rest_api_getting_started.html) |Commercial|
+| Splunk | Splunk API | `None` | `No` | [Link!](http://dev.splunk.com/restapi) |Commercial|
 
 ### Various
 API | Description | Auth | HTTPS | Link |Free / Commercial|
@@ -98,5 +101,7 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Link!](https://developers.google.com/safe-browsing/) |?|
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Link!](https://metacert.com/) |?|
 | National Software Reference Library (NSRL) | - | `apiKey` | Yes | [Link!](https://github.com/bsi-group/nsrls) |?|
+| PaloAlto | PaloAlto FW API | `Yes` | `Yes` | [Link!](https://www.paloaltonetworks.com/documentation/71/pan-os/xml-api/get-started-with-the-pan-os-xml-api/explore-the-api) | Commercial |
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
+| ServiceNow | ServiceNow API | `apiKey` | `Yes` | [Link!](https://developer.servicenow.com/app.do) | Commercial |
 | Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
