@@ -1,5 +1,7 @@
 # awesome-security-apis
-A collective awesome list of public (JSON) APIs for use in security. https://alexanderjaeger.de
+A collective awesome list of public (JSON) APIs for use in security. 
+
+The list ist supported by https://alexanderjaeger.de
 
 Learn about REST: https://github.com/marmelab/awesome-rest
 
