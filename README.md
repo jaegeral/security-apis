@@ -67,7 +67,8 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
 | Kolide Fleet | osQuery fleet management | `?` | Yes | [Link!](https://github.com/kolide/fleet/blob/master/docs/api/README.md) |OpenSource|
-|Lastline | Lastline Enterprise | `ApiKey` | Yes | [Link!](https://user.lastline.com/papi-doc/api/html/index.html) | Commercial |
+| Lastline | Lastline Enterprise | `ApiKey` | Yes | [Link!](https://user.lastline.com/papi-doc/api/html/index.html) | Commercial |
+| logdissect | CLI utility and Python API for analyzing log files and other data. | `?` | Yes | [Link!](https://github.com/dogoncouch/logdissect/blob/master/docs/README-API.md) | OpenSource |
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
 | Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
 | Metasploit | Exploiting | `apiKey` | Yes | [Link!](http://rapid7.github.io/metasploit-framework/api/) |Commercial|
