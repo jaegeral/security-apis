@@ -42,6 +42,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/api) |?|
+| Phishtank |  | `?` | Yes | [Link!](http://www.phishtank.com/developer_info.php) |?|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
 | Shadowserver Sandbox API | Sandbox | `?` | Yes | [Link!](http://www.shadowserver.org/wiki/pmwiki.php/Services/Sandboxapi) |Free|
