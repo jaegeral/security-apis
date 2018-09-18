@@ -2,6 +2,8 @@
 A collective awesome list of public (JSON) APIs for use in security. https://alexanderjaeger.de
 Learn about REST: https://github.com/marmelab/awesome-rest
 
+Thanks to all [contributors](https://github.com/deralexxx/security-apis/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of APIs relevant for security people.
+
 # Index
 * [Online](#online)
 * [Tools](#tools)
