@@ -44,6 +44,9 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/api) |?|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
+| Shadowserver Sandbox API | Sandbox | `?` | Yes | [Link!](http://www.shadowserver.org/wiki/pmwiki.php/Services/Sandboxapi) |Free|
+| Shadowserver Bintest API | This server provides a lookup mechanism to test an executable file against a list of known software applications.| `?` | Yes | [Link!](http://bin-test.shadowserver.org/) |Free|
+| Shadowserver IP-BGP API | Mapping IP numbers to BGP prefixes and ASNs | `?` | Yes | [Link!](https://www.shadowserver.org/wiki/pmwiki.php/Services/IP-BGP) |Free|
 | Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
