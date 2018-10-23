@@ -49,6 +49,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/api) |?|
 | Phishtank |  | `?` | Yes | [Link!](http://www.phishtank.com/developer_info.php) |?|
+| Pulsedive | Free threat intelligence platform ingesting over 50 OSINT feeds and user submissions. | `apiKey` | Yes | [Link!](https://pulsedive.com/api/) |Both|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
 | Shadowserver Sandbox API | Sandbox | `?` | Yes | [Link!](http://www.shadowserver.org/wiki/pmwiki.php/Services/Sandboxapi) |Free|
