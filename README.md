@@ -82,7 +82,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Moloch | Moloch is an open source, large scale, full packet capturing, indexing, and database system. | `?` | Yes | [Link!](https://github.com/aol/moloch/wiki/API) |OpenSource|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
 | Plaso | Plaso Langar Að Safna Öllu | `apiKey` | Yes | [Link!](https://readthedocs.org/projects/plaso-api/) |OpenSource|
-| Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |?|
+| Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://api.recordedfuture.com/index.html) |?|
 | Request Tracker | Ticketing System | `apiKey` | Yes | [Link!](https://rt-wiki.bestpractical.com/wiki/REST) |?|
 | Scot | SCOT - Sandia Cyber Omni Tracker Ticketing System | `apiKey` | Yes | [Link!](http://scot.readthedocs.io/en/latest/devguide.html#scot-rest-api) |Free|
 | TheHive | Security Incident Response Platform | `apiKey` | Yes | [Link!](https://blog.thehive-project.org/tag/api/) |Free|
