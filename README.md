@@ -113,8 +113,11 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | Cyphon | Open Source INcident Management tool | `apiKey` | Yes | [Link!](http://cyphon.readthedocs.io/en/latest/api.html) |?|
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Link!](https://developers.google.com/safe-browsing/) |?|
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Link!](https://metacert.com/) |?|
+| Windows Defender Advanced Threat Protection (Windows Defender ATP) | WDATP | `apiKey` | Yes | [Link!](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/management-apis) |?|
 | National Software Reference Library (NSRL) | - | `apiKey` | Yes | [Link!](https://github.com/bsi-group/nsrls) |?|
 | PaloAlto | PaloAlto FW API | `Yes` | `Yes` | [Link!](https://www.paloaltonetworks.com/documentation/71/pan-os/xml-api/get-started-with-the-pan-os-xml-api/explore-the-api) | Commercial |
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | ServiceNow | ServiceNow API | `apiKey` | `Yes` | [Link!](https://developer.servicenow.com/app.do) | Commercial |
 | Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
+
+
