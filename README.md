@@ -1,5 +1,5 @@
 # awesome-security-apis
-A collective awesome list of public (JSON) APIs for use in security. 
+A collective awesome list of public (JSON) APIs for use in security.
 
 The list ist supported by https://alexanderjaeger.de
 
@@ -105,6 +105,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 ### Various
 API | Description | Auth | HTTPS | Link |Free / Commercial|
 |---|---|---|---|---|---|
+| Akamai | Akamai CDN | `apiKey` | Yes | [Link!](https://developer.akamai.com/api/) | Commercial |
 | AlienVault Open Threat Exchange (OTX) | IP/domain/URL reputation | `apiKey` | Yes | [Link!](https://otx.alienvault.com/api/) |?|
 | Certly | Certly Link/Domain Flagging | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
 | Cisco ISE | ISE is an identity and access control policy platform | `apiKey` | Yes | [Link!](https://www.cisco.com/c/en/us/support/security/identity-services-engine/products-command-reference-list.html) |?|
@@ -112,13 +113,13 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | Cisco Security APIs | Cisco Developer Page | `` | ? | [Link!](https://developer.cisco.com/site/security/) |?|
 | Cisco Umbrella | Cisco Umbrella Enforcement API | `apiKey` | Yes | [Link!](https://docs.umbrella.com/developer/enforcement-api/) |?|
 | Cyphon | Open Source INcident Management tool | `apiKey` | Yes | [Link!](http://cyphon.readthedocs.io/en/latest/api.html) |?|
+| F5 Bip IP | F5 application services products | `apiKey` | Yes | [Link!](https://devcentral.f5.com/wiki/iControlREST.HomePage.ashx?lc=1) | Commercial |
 | Google Safe Browsing | Google Link/Domain Flagging | `apiKey` | Yes | [Link!](https://developers.google.com/safe-browsing/) |?|
 | Metacert | Metacert Link Flagging | `apiKey` | Yes | [Link!](https://metacert.com/) |?|
+| Netscaler | Citrix Netscaler application delivery controller | `apiKey` | Yes | [Link!](https://developer-docs.citrix.com/projects/netscaler-nitro-api/en/12.0/api-reference/) | Commercial |
 | Windows Defender Advanced Threat Protection (Windows Defender ATP) | WDATP | `apiKey` | Yes | [Link!](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/management-apis) |?|
 | National Software Reference Library (NSRL) | - | `apiKey` | Yes | [Link!](https://github.com/bsi-group/nsrls) |?|
 | PaloAlto | PaloAlto FW API | `Yes` | `Yes` | [Link!](https://www.paloaltonetworks.com/documentation/71/pan-os/xml-api/get-started-with-the-pan-os-xml-api/explore-the-api) | Commercial |
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | ServiceNow | ServiceNow API | `apiKey` | `Yes` | [Link!](https://developer.servicenow.com/app.do) | Commercial |
 | Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
-
-
