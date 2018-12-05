@@ -45,6 +45,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
 | MAC address API | Threat Intel  | `apiKey` | Yes | [Link!](https://macaddress.io/api-documentation) |Commercial|
+| Malpedia | Curated list of malware  | `apiKey` | Yes | [Link!](https://malpedia.caad.fkie.fraunhofer.de/usage/api) |Free|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
 | NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
@@ -56,6 +57,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Shadowserver Sandbox API | Sandbox | `?` | Yes | [Link!](http://www.shadowserver.org/wiki/pmwiki.php/Services/Sandboxapi) |Free|
 | Shadowserver Bintest API | This server provides a lookup mechanism to test an executable file against a list of known software applications.| `?` | Yes | [Link!](http://bin-test.shadowserver.org/) |Free|
 | Shadowserver IP-BGP API | Mapping IP numbers to BGP prefixes and ASNs | `?` | Yes | [Link!](https://www.shadowserver.org/wiki/pmwiki.php/Services/IP-BGP) |Free|
+| Shodan.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://developer.shodan.io/) |Free/Commercial|
 | Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
