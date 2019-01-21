@@ -47,6 +47,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MAC address API | Threat Intel  | `apiKey` | Yes | [Link!](https://macaddress.io/api-documentation) |Commercial|
 | Malpedia | Curated list of malware  | `apiKey` | Yes | [Link!](https://malpedia.caad.fkie.fraunhofer.de/usage/api) |Free|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
+| MWDB | The MWDB system (also known as the “Malware Database”) is a repository for storing malware samples and information acquired during their analysis  | `apiKey` | Yes | [Link!](https://github.com/CERT-Polska/mwdblib/blob/public/src/api.py) |Free|
 | NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/api) |?|
