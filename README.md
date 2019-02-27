@@ -62,6 +62,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | URLhaus | abuse.ch API | `apiKey` | Yes | [Link!](https://urlhaus-api.abuse.ch/) |Free|
+| urlscan.io | abuse.ch API | `apiKey` | Yes | [Link!](https://urlscan.io/about-api/) |Free|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://vulners.com/docs) |?|
 | whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
