@@ -19,6 +19,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
 | Apility.IO API | Threat Intelligence Anti-Abuse API  | `apiKey` | Yes | [Link!](https://apidocs.apility.io/) |Free|
 | Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://docs.aws.amazon.com/AlexaTopSites/latest/) |?|
+| ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
 | bgpmon.net | Bgp monitoring | `?` | Yes | [Link!](https://bgpmon.net/bgpmon-web-services-api/) |?|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
