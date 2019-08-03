@@ -71,7 +71,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://vulners.com/docs) |?|
 | whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
-| Zoomeye | CVE Search | `apiKey` | Yes | [Link!](https://www.zoomeye.org/api) |?|
+| Zoomeye | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.zoomeye.org/doc) |Both|
 
 ## Tools
 
