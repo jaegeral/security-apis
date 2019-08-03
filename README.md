@@ -34,6 +34,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | DDosMon | DDos Monitoring  | `apiKey` | Yes | [Link!](https://api.ddosmon.net/docs/) |?|
 | Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |Free|
+| EmailRep | Free API to query email reputation and report malicious senders | none | Yes | [Link!](https://blog.sublimesecurity.com/emailrep-query-and-report) | Free |
 | emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
 | Fireeye iSight | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://docs.fireeye.com/iSight/index.html#/) |Commercial|
