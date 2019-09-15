@@ -29,7 +29,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Cloidsploit | Vuln Scanner | `apiKey` | Yes | [Link!](https://cloudsploit.com/api) |Free|
 | CrowdStrike API | TI | `apiKey` | Yes | [Link!](https://www.crowdstrike.com/blog/tech-center/get-access-crowdstrike-apis/) |NO|
 | CVEAPI | API for CVE data | `none` | Yes | [Link!](https://cveapi.com/) |Free|
-| Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://guard.certly.io/) |?|
+| Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://cymon.docs.apiary.io/) |?|
 | Cybergreen | How clean is a network  | `apiKey` | Yes | [Link!](http://stats.cybergreen.net/download/) |?|
 | DDosMon | DDos Monitoring  | `apiKey` | Yes | [Link!](https://api.ddosmon.net/docs/) |?|
 | Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
