@@ -32,6 +32,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Cybergreen | How clean is a network  | `apiKey` | Yes | [Link!](http://stats.cybergreen.net/download/) |?|
 | DDosMon | DDos Monitoring  | `apiKey` | Yes | [Link!](https://api.ddosmon.net/docs/) |?|
 | Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
+| Dragos WorldView | ICS Threat Intelligence  | `apiKey` | Yes | [Link!](https://portal.dragos.com/api/v1/doc/) |Commercial|
 | DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |Free|
 | EmailRep | Free API to query email reputation and report malicious senders | none | Yes | [Link!](https://blog.sublimesecurity.com/emailrep-query-and-report) | Free |
 | emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
@@ -66,6 +67,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Shodan.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://developer.shodan.io/) |Free/Commercial|
 | Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
+| ThreatConnect | Threat Intel / SOC platform  | `apiKey` | Yes | [Link!](https://docs.threatconnect.com/en/latest/) |Commercial|
 | URLhaus | abuse.ch API | `apiKey` | Yes | [Link!](https://urlhaus-api.abuse.ch/) |Free|
 | urlscan.io | Online tool to scan URLs | `apiKey` | Yes | [Link!](https://urlscan.io/about-api/) |Free|
 | Valhalla | Online repository of curated yara rules | `apiKey` | Yes | [Link!](https://valhalla.nextron-systems.com/) |Commercial|
