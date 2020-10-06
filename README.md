@@ -23,8 +23,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
 | bgpmon.net | Bgp monitoring | `?` | Yes | [Link!](https://bgpmon.net/bgpmon-web-services-api/) |?|
-| caprivacy.github.io | California Privacy Directory  | None | Yes | [Link!](https://caprivacy.github.io/caprivacy/
-) |?|
+| caprivacy.github.io | California Privacy Directory  | None | Yes | [Link!](https://caprivacy.github.io/caprivacy/) |?|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
 | CIRCL CVE Search | CVE Search | `none` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
 | Cloidsploit | Vuln Scanner | `apiKey` | Yes | [Link!](https://cloudsploit.com/api) |Free|
