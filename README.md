@@ -26,6 +26,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | caprivacy.github.io | California Privacy Directory  | None | Yes | [Link!](https://caprivacy.github.io/caprivacy/) |?|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
 | CIRCL CVE Search | CVE Search | `none` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
+| CIRCL Passive SSH | Passive SSH | `ApiKey` | Yes | [Link!](https://github.com/D4-project/passive-ssh#api) |Free for security teams|
 | Cloidsploit | Vuln Scanner | `apiKey` | Yes | [Link!](https://cloudsploit.com/api) |Free|
 | CrowdStrike API | TI | `apiKey` | Yes | [Link!](https://www.crowdstrike.com/blog/tech-center/get-access-crowdstrike-apis/) |NO|
 | CVEAPI | API for CVE data | `none` | Yes | [Link!](https://cveapi.com/) |Free|
