@@ -55,6 +55,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Malpedia | Curated list of malware  | `apiKey` | Yes | [Link!](https://malpedia.caad.fkie.fraunhofer.de/usage/api) |Free|
 | MalwareBazaar | Malware Sharing Service  | `apiKey` | Yes | [Link!](https://bazaar.abuse.ch/api/) |Free (CCO)|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
+| Microsoft Security Response Center API | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)  | `None` | Yes | [Link!](https://msrc.microsoft.com/report/developer) |Free|
 | MWDB | The MWDB system (also known as the “Malware Database”) is a repository for storing malware samples and information acquired during their analysis  | `apiKey` | Yes | [Link!](https://github.com/CERT-Polska/mwdblib/blob/public/src/api.py) |Free|
 | NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Onyphe | Search Engine for internet connected devices   | `apiKey` | Yes | [Link!](https://www.onyphe.io/) |Free/Commercial|
