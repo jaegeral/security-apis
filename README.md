@@ -32,6 +32,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | CVEAPI | API for CVE data | `none` | Yes | [Link!](https://cveapi.com/) |Free|
 | Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://cymon.docs.apiary.io/) |?|
 | Cybergreen | How clean is a network  | `apiKey` | Yes | [Link!](http://stats.cybergreen.net/download/) |?|
+| CyCAT.org | The Cybersecurity Resource Catalogue public API services. | `none` | Yes | [Link!](https://api.cycat.org/) |Free - OpenAPI|
 | DDosMon | DDos Monitoring  | `apiKey` | Yes | [Link!](https://api.ddosmon.net/docs/) |?|
 | Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | Dragos WorldView | ICS Threat Intelligence  | `apiKey` | Yes | [Link!](https://portal.dragos.com/api/v1/doc/) |Commercial|
