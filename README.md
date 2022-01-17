@@ -71,6 +71,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Shadowserver Bintest API | This server provides a lookup mechanism to test an executable file against a list of known software applications.| `?` | Yes | [Link!](http://bin-test.shadowserver.org/) |Free|
 | Shadowserver IP-BGP API | Mapping IP numbers to BGP prefixes and ASNs | `?` | Yes | [Link!](https://www.shadowserver.org/wiki/pmwiki.php/Services/IP-BGP) |Free|
 | Shodan.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://developer.shodan.io/) |Free/Commercial|
+| StalkPhish.io | Phishing/brand impersonation detection feed | `apiKey` | Yes | [Link!](https://www.stalkphish.io/) |Free/Commercial|
 | Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | ThreatConnect | Threat Intel / SOC platform  | `apiKey` | Yes | [Link!](https://docs.threatconnect.com/en/latest/) |Commercial|
