@@ -21,6 +21,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://docs.aws.amazon.com/AlexaTopSites/latest/) |?|
 | ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
+| CriminalIP.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.criminalip.io/) |Free/Commercial|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
 | bgpmon.net | Bgp monitoring | `?` | Yes | [Link!](https://bgpmon.net/bgpmon-web-services-api/) |?|
 | caprivacy.github.io | California Privacy Directory  | None | Yes | [Link!](https://caprivacy.github.io/caprivacy/) |?|
