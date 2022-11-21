@@ -17,7 +17,6 @@ Thanks to all [contributors](https://github.com/deralexxx/security-apis/graphs/c
 ## Online
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
-| Apility.IO API | Threat Intelligence Anti-Abuse API  | `apiKey` | Yes | [Link!](https://apidocs.apility.io/) |Free|
 | Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://docs.aws.amazon.com/AlexaTopSites/latest/) |?|
 | ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
@@ -35,7 +34,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://cymon.docs.apiary.io/) |?|
 | Cybergreen | How clean is a network  | `apiKey` | Yes | [Link!](http://stats.cybergreen.net/download/) |?|
 | CyCAT.org | The Cybersecurity Resource Catalogue public API services. | `none` | Yes | [Link!](https://api.cycat.org/) |Free - OpenAPI|
-| DDosMon | DDos Monitoring  | `apiKey` | Yes | [Link!](https://api.ddosmon.net/docs/) |?|
 | Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | Dragos WorldView | ICS Threat Intelligence  | `apiKey` | Yes | [Link!](https://portal.dragos.com/api/v1/doc/) |Commercial|
 | DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |Free|
@@ -51,7 +49,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
 | IP ASN History (D4 Project - CIRCL) | IP and BGP intelligence | `none` | Yes |[Link!](https://github.com/D4-project/IPASN-History)|Free|
-| Malwr.com | Malware analysis | `apiKey` | Yes | [Link!](https://malwr.com/) |?|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
 | MAC address API | Threat Intel  | `apiKey` | Yes | [Link!](https://macaddress.io/api-documentation) |Commercial|
@@ -59,12 +56,12 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MalwareBazaar | Malware Sharing Service  | `apiKey` | Yes | [Link!](https://bazaar.abuse.ch/api/) |Free (CCO)|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
 | Microsoft Security Response Center API | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)  | `None` | Yes | [Link!](https://msrc.microsoft.com/report/developer) |Free|
-| MWDB | The MWDB system (also known as the “Malware Database”) is a repository for storing malware samples and information acquired during their analysis  | `apiKey` | Yes | [Link!](https://github.com/CERT-Polska/mwdblib/blob/public/src/api.py) |Free|
+| MWDB | The MWDB system (also known as the “Malware Database”) is a repository for storing malware samples and information acquired during their analysis  | `apiKey` | Yes | [Link!](https://mwdb.readthedocs.io/en/latest/user-guide/8-REST-and-mwdblib.html) |Free|
 | NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Onyphe | Search Engine for internet connected devices   | `apiKey` | Yes | [Link!](https://www.onyphe.io/) |Free/Commercial|
 | ORKL.eu | Search Engine for intel reports   | `apiKey` | Yes | [Link!](https://orkl.eu) |Free (API rate limited)|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
-| Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/api) |?|
+| Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/doc_api) |?|
 | Phishtank |  | `?` | Yes | [Link!](http://www.phishtank.com/developer_info.php) |?|
 | Pulsedive | Free threat intelligence platform ingesting over 50 OSINT feeds and user submissions. | `apiKey` | Yes | [Link!](https://pulsedive.com/api/) |Both|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
@@ -90,21 +87,20 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
-| Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://malwr.com/) |OpenSource|
+| Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://cuckoo.sh/docs/usage/api.html) |OpenSource|
 | CRITS | TI System | `apiKey` | Yes | [Link!](https://github.com/crits/crits/wiki/Authenticated-API) |?|
 | CrowdStrike falcon-orchestrator | Orchestrator | `apiKey` | Yes | [Link!](https://github.com/CrowdStrike/falcon-orchestrator/wiki/Installation-&-Deployment) |yes|
-| Cymetria Maze Runner | - | `apiKey` | Yes | [Link!](https://community.cymmetria.com/api/sdk.pdf) |?|
 | emlrender | EML file rendering tool | `password` | Yes | [Link!](https://github.com/xme/emlrender) |OpenSource|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
 | Kolide Fleet | osQuery fleet management | `?` | Yes | [Link!](https://github.com/kolide/fleet/blob/master/docs/api/README.md) |OpenSource|
 | Lastline | Lastline Enterprise | `ApiKey` | Yes | [Link!](https://user.lastline.com/papi-doc/api/html/index.html) | Commercial |
-| logdissect | CLI utility and Python API for analyzing log files and other data. | `?` | Yes | [Link!](https://github.com/dogoncouch/logdissect/blob/master/docs/README-API.md) | OpenSource |
+| logdissect | CLI utility and Python API for analyzing log files and other data. | `?` | Yes | [Link!](https://github.com/dogoncouch/logdissect/blob/master/docs/README-MODULE.md) | OpenSource |
 | MISP | Open Source Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://www.circl.lu/doc/misp/automation/) |OpenSource|
-| Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://www.opswat.com/products/metadefender/developers/apis) |Commercial|
+| Metadefender | MultiAV | `apiKey` | Yes | [Link!](https://docs.opswat.com/mdcore/metadefender-core/ref) |Commercial|
 | Metasploit | Exploiting | `apiKey` | Yes | [Link!](http://rapid7.github.io/metasploit-framework/api/) |Commercial|
 | Moloch | Moloch is an open source, large scale, full packet capturing, indexing, and database system. | `?` | Yes | [Link!](https://github.com/aol/moloch/wiki/API) |OpenSource|
-| OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/6.0/Perl/index.html) |?|
+| OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/8.0/Perl/) |?|
 | Plaso | Plaso Langar Að Safna Öllu | `apiKey` | Yes | [Link!](https://readthedocs.org/projects/plaso-api/) |OpenSource|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://api.recordedfuture.com/index.html) |?|
 | Request Tracker | Ticketing System | `apiKey` | Yes | [Link!](https://rt-wiki.bestpractical.com/wiki/REST) [REST2](https://metacpan.org/pod/RT::Extension::REST2) |?|
@@ -144,5 +140,5 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | PaloAlto | PaloAlto FW API | `apiKey` | Yes | [Link!](https://www.paloaltonetworks.com/documentation/71/pan-os/xml-api/get-started-with-the-pan-os-xml-api/explore-the-api) | Commercial |
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | ServiceNow | ServiceNow API | `apiKey` | Yes | [Link!](https://developer.servicenow.com/app.do) | Commercial |
-| Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/wiki/API) |?|
+| Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/developers) |?|
 | Yandex Safe Browsing | Yandex Link/Domain Flagging | `apiKey` | Yes | [Link!](https://yandex.com/dev/safebrowsing/) |?|
