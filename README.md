@@ -140,5 +140,5 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | PaloAlto | PaloAlto FW API | `apiKey` | Yes | [Link!](https://www.paloaltonetworks.com/documentation/71/pan-os/xml-api/get-started-with-the-pan-os-xml-api/explore-the-api) | Commercial |
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | ServiceNow | ServiceNow API | `apiKey` | Yes | [Link!](https://developer.servicenow.com/app.do) | Commercial |
-| Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://support.mywot.com/hc/en-us/sections/360004477734-API-) |?|
+| Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/developers) |?|
 | Yandex Safe Browsing | Yandex Link/Domain Flagging | `apiKey` | Yes | [Link!](https://yandex.com/dev/safebrowsing/) |?|
