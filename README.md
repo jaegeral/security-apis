@@ -49,6 +49,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
 | IP ASN History (D4 Project - CIRCL) | IP and BGP intelligence | `none` | Yes |[Link!](https://github.com/D4-project/IPASN-History)|Free|
+| IPinfo | IP location, ASN, VPN detection and more | `none` | Yes | [Link!](https://ipinfo.io) |Both|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
 | MAC address API | Threat Intel  | `apiKey` | Yes | [Link!](https://macaddress.io/api-documentation) |Commercial|
