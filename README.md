@@ -17,19 +17,17 @@ Thanks to all [contributors](https://github.com/deralexxx/security-apis/graphs/c
 ## Online
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
-| Alexa | Alexa Top Sites | `apiKey` | Yes | [Link!](https://docs.aws.amazon.com/AlexaTopSites/latest/) |?|
 | ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
 | CriminalIP.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.criminalip.io/) |Free/Commercial|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
-| bgpmon.net | Bgp monitoring | `?` | Yes | [Link!](https://bgpmon.net/bgpmon-web-services-api/) |?|
 | caprivacy.github.io | California Privacy Directory  | None | Yes | [Link!](https://caprivacy.github.io/caprivacy/) |?|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
 | CIRCL CVE Search | CVE Search | `none` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
 | CIRCL hashlookup | File hash lookup | `none` | Yes | [Link!](https://hashlookup.circl.lu/) |Free|
 | CIRCL Passive SSH | Passive SSH | `ApiKey` | Yes | [Link!](https://github.com/D4-project/passive-ssh#api) |Free for security teams|
 | Cloidsploit | Vuln Scanner | `apiKey` | Yes | [Link!](https://cloudsploit.com/api) |Free|
-| CrowdStrike API | TI | `apiKey` | Yes | [Link!](https://www.crowdstrike.com/blog/tech-center/get-access-crowdstrike-apis/) |NO|
+| CrowdStrike API | TI | `apiKey` | Yes | [Link!](https://developer.crowdstrike.com/docs/openapi/) |NO|
 | CVEAPI | API for CVE data | `none` | Yes | [Link!](https://cveapi.com/) |Free|
 | Cymon.io | Open Threat Intel  | `apiKey` | Yes | [Link!](https://cymon.docs.apiary.io/) |?|
 | Cybergreen | How clean is a network  | `apiKey` | Yes | [Link!](http://stats.cybergreen.net/download/) |?|
@@ -88,7 +86,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
-| Cuckoo | Cuckoo Sandbox | `apiKey` | Yes | [Link!](https://cuckoo.sh/docs/usage/api.html) |OpenSource|
 | CRITS | TI System | `apiKey` | Yes | [Link!](https://github.com/crits/crits/wiki/Authenticated-API) |?|
 | CrowdStrike falcon-orchestrator | Orchestrator | `apiKey` | Yes | [Link!](https://github.com/CrowdStrike/falcon-orchestrator/wiki/Installation-&-Deployment) |yes|
 | emlrender | EML file rendering tool | `password` | Yes | [Link!](https://github.com/xme/emlrender) |OpenSource|
@@ -141,5 +138,4 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | PaloAlto | PaloAlto FW API | `apiKey` | Yes | [Link!](https://www.paloaltonetworks.com/documentation/71/pan-os/xml-api/get-started-with-the-pan-os-xml-api/explore-the-api) | Commercial |
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | ServiceNow | ServiceNow API | `apiKey` | Yes | [Link!](https://developer.servicenow.com/app.do) | Commercial |
-| Web Of Trust (WOT) | Website reputation | `apiKey` | Yes | [Link!](https://www.mywot.com/developers) |?|
 | Yandex Safe Browsing | Yandex Link/Domain Flagging | `apiKey` | Yes | [Link!](https://yandex.com/dev/safebrowsing/) |?|
