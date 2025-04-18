@@ -61,6 +61,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | ORKL.eu | Search Engine for intel reports   | `apiKey` | Yes | [Link!](https://orkl.eu) |Free (API rate limited)|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/doc_api) |?|
+| Pentestnet | Vuln Scanner  | `apiKey` | Yes | [Link!](https://pentestnet.com/api-docs) |Commercial|
 | Phishtank |  | `?` | Yes | [Link!](http://www.phishtank.com/developer_info.php) |?|
 | ProxySpace | Proxy servers, proxy judge and IP geolocation | None | Yes | [Link!](https://proxyspace.pro) |Free|
 | Pulsedive | Free threat intelligence platform ingesting over 50 OSINT feeds and user submissions. | `apiKey` | Yes | [Link!](https://pulsedive.com/api/) |Both|
