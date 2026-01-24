@@ -143,3 +143,5 @@ API | Description | Auth | HTTPS | Link |Free / Commercial|
 | RSA Secure ID | Metacert Link Flagging | `apiKey` | Yes | [Link!]( https://community.rsa.com/docs/DOC-75741) |?|
 | ServiceNow | ServiceNow API | `apiKey` | Yes | [Link!](https://developer.servicenow.com/app.do) | Commercial |
 | Yandex Safe Browsing | Yandex Link/Domain Flagging | `apiKey` | Yes | [Link!](https://yandex.com/dev/safebrowsing/) |?|
+| OWASP ZAP | Web application security scanner | none | Yes | [Link](https://www.zaproxy.org/docs/api/) | Free |
+
