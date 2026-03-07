@@ -18,6 +18,7 @@ Thanks to all [contributors](https://github.com/deralexxx/security-apis/graphs/c
 API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
 | ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
+| ArkForge Trust Layer | Certifying proxy — wraps any API call with cryptographic proof (Ed25519 + RFC 3161 + Sigstore Rekor) | `apiKey` | Yes | [Link!](https://arkforge.fr/trust) |Free/Commercial|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
 | CriminalIP.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.criminalip.io/) |Free/Commercial|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
