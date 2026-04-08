@@ -45,7 +45,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Focsec | IP Intelligence, Proxy and VPN Detection | `apiKey` | Yes | [Link!](https://focsec.com) |Free/Commercial|
 | GreyNoise | GreyNoise is a system that collects and analyzes data on Internet-wide scanners. | `apiKey` | Yes | [Link!](https://github.com/GreyNoise-Intelligence/api.greynoise.io) |Free/Commercial|
 | HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
-| have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v2) |?|
+| have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v3) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
 | IP ASN History (D4 Project - CIRCL) | IP and BGP intelligence | `none` | Yes |[Link!](https://github.com/D4-project/IPASN-History)|Free|
 | IPinfo | IP location, ASN, VPN detection and more | `none` | Yes | [Link!](https://ipinfo.io) |Both|
@@ -81,9 +81,9 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | urlscan.io | Online tool to scan URLs | `apiKey` | Yes | [Link!](https://urlscan.io/about-api/) |Free|
 | Valhalla | Online repository of curated yara rules | `apiKey` | Yes | [Link!](https://valhalla.nextron-systems.com/) |Commercial|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
-| vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://vulners.com/docs) |?|
+| vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://docs.vulners.com/docs/api/) |?|
 | whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
-| Zoomeye | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.zoomeye.org/doc) |Both|
+| Zoomeye | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.zoomeye.ai/doc) |Both|
 
 ## Tools
 
@@ -91,7 +91,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
 | Carbon Black | Endpoint Security | `apiKey` | Yes | [Link!](https://github.com/carbonblack/cbapi) |Commercial|
 | CRITS | TI System | `apiKey` | Yes | [Link!](https://github.com/crits/crits/wiki/Authenticated-API) |?|
-| CrowdStrike falcon-orchestrator | Orchestrator | `apiKey` | Yes | [Link!](https://github.com/CrowdStrike/falcon-orchestrator/wiki/Installation-&-Deployment) |yes|
 | emlrender | EML file rendering tool | `password` | Yes | [Link!](https://github.com/xme/emlrender) |OpenSource|
 | FireEye | Endpoint Security | `apiKey` | Yes | [Link!](https://docs.fireeye.com/) |?|
 | GRR | Endpoint Incident Response tool | `apiKey` | Yes | [Link!](http://grr-doc.readthedocs.io/en/v3.2.0/investigating-with-grr/automation-with-api.html) |OpenSource|
