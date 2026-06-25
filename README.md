@@ -84,6 +84,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://docs.vulners.com/docs/api/) |?|
 | whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
+| [DomainIntel API](https://domainintel.onrender.com) | Domain intelligence (RDAP, DNS, certificates, bulk) | `apiKey` | Yes | [Link!](https://domainintel.onrender.com) |Free/Commercial|
 | Zoomeye | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.zoomeye.ai/doc) |Both|
 
 ## Tools
