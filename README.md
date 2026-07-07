@@ -48,6 +48,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
 | have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v3) |?|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
+| IPGeolocation | IP Geolocation API with security threat intel (VPN, proxy, Tor, bot detection), ASN, abuse-contact data, and more (timezone, company, hostname) | `apiKey` | Yes | [Link!](https://ipgeolocation.io) | Free/Commercial|
 | IP ASN History (D4 Project - CIRCL) | IP and BGP intelligence | `none` | Yes |[Link!](https://github.com/D4-project/IPASN-History)|Free|
 | IPinfo | IP location, ASN, VPN detection and more | `none` | Yes | [Link!](https://ipinfo.io) |Both|
 | IPASIS | Real-time bot detection, IP reputation, proxy/VPN detection, and email validation API | `apiKey` | Yes | [Link!](https://ipasis.com) |Free/Commercial|
