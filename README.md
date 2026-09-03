@@ -45,6 +45,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Flashpoint Intel | Threat Intel | `apiKey` | Yes | [Link!](https://www.flashpoint-intel.com/api/) |?|
 | Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
 | Focsec | IP Intelligence, Proxy and VPN Detection | `apiKey` | Yes | [Link!](https://focsec.com) |Free/Commercial|
+| GetWhoisData.com | Whois APIs| `apiKey` | Yes | [Link!](https://api.getwhoisdata.com) |Commercial|
 | GreyNoise | GreyNoise is a system that collects and analyzes data on Internet-wide scanners. | `apiKey` | Yes | [Link!](https://github.com/GreyNoise-Intelligence/api.greynoise.io) |Free/Commercial|
 | HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
 | have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v3) |?|
@@ -87,7 +88,6 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://docs.vulners.com/docs/api/) |?|
 | whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
-| GetWhoisData.com | Whois APIs| `apiKey` | Yes | [Link!](https://api.getwhoisdata.com) |Commercial|
 | Zoomeye | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.zoomeye.ai/doc) |Both|
 
 ## Tools
