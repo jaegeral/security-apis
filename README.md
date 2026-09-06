@@ -58,6 +58,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
 | MAC address API | Threat Intel  | `apiKey` | Yes | [Link!](https://macaddress.io/api-documentation) |Commercial|
 | Malpedia | Curated list of malware  | `apiKey` | Yes | [Link!](https://malpedia.caad.fkie.fraunhofer.de/usage/api) |Free|
+| Malwagon | Online sandbox that detonates files and URLs and returns behaviour, IOCs and ATT&CK  | `apiKey` | Yes | [Link!](https://malwagon.com/docs/api) |Free/Commercial|
 | MalwareBazaar | Malware Sharing Service  | `apiKey` | Yes | [Link!](https://bazaar.abuse.ch/api/) |Free (CCO)|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
 | Microsoft Security Response Center API | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)  | `None` | Yes | [Link!](https://msrc.microsoft.com/report/developer) |Free|
