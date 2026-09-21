@@ -68,6 +68,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | ORKL.eu | Search Engine for intel reports   | `apiKey` | Yes | [Link!](https://orkl.eu) |Free (API rate limited)|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/doc_api) |?|
+| Patronus Protect | Detect prompt injection in text, public webpages and documents for AI agents and RAG pipelines | `apiKey` | Yes | [Link!](https://api.patronus.studio/) |Free/Commercial|
 | Pentestnet | Vuln Scanner  | `apiKey` | Yes | [Link!](https://pentestnet.com/api-docs) |Commercial|
 | Phishtank |  | `?` | Yes | [Link!](http://www.phishtank.com/developer_info.php) |?|
 | ProxySpace | Proxy servers, proxy judge and IP geolocation | None | Yes | [Link!](https://proxyspace.pro) |Free|
