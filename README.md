@@ -73,6 +73,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | ProxySpace | Proxy servers, proxy judge and IP geolocation | None | Yes | [Link!](https://proxyspace.pro) |Free|
 | Pulsedive | Free threat intelligence platform ingesting over 50 OSINT feeds and user submissions. | `apiKey` | Yes | [Link!](https://pulsedive.com/api/) |Both|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
+| ScanMalware | Submit URLs for sandboxed browser scans and search the scan archive by domain, IP, ASN, JARM or favicon hash | `none` | Yes | [Link!](https://scanmalware.com/api-docs) |Free|
 | Spamhaus | Domain / IP intelligence and reputation | `?` | Yes | [Link!](https://www.spamhaus.org/zen/) |?|
 | Shadowserver Sandbox API | Sandbox | `?` | Yes | [Link!](http://www.shadowserver.org/wiki/pmwiki.php/Services/Sandboxapi) |Free|
 | Shadowserver Bintest API | This server provides a lookup mechanism to test an executable file against a list of known software applications.| `?` | Yes | [Link!](http://bin-test.shadowserver.org/) |Free|
