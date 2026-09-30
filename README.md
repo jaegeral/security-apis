@@ -36,6 +36,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | defend.network | Daily-updated free JSON feed of CVEs with CVSS, EPSS, CISA KEV status and exploitation state | `none` | Yes | [Link!](https://defend.network/api/) |Free|
 | DNSai | DNS, SPF, DKIM, DMARC, WHOIS and email-security lookups | `none` | Yes | [Link!](https://dnsai.com/api/) |Free/Commercial|
 | DomScan | Domain, DNS, WHOIS/RDAP, TLS, subdomain, reputation and brand intelligence | `apiKey` | Yes | [Link!](https://domscan.net/docs) |Free/Commercial|
+| cl0q | Open search engine for domain research — 38.5M domains scanned, 24.8M pages indexed, free API tier (30 req/min, 1,000/day), no tracking | `apiKey` | Yes | [Link!](https://cl0q.com) |Free|
 | Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | Dragos WorldView | ICS Threat Intelligence  | `apiKey` | Yes | [Link!](https://portal.dragos.com/api/v1/doc/) |Commercial|
 | DShield | Internet Storm Center API  | `apiKey` | Yes | [Link!](https://www.dshield.org/api/) |Free|
