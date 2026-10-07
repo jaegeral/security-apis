@@ -35,6 +35,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | CyCAT.org | The Cybersecurity Resource Catalogue public API services. | `none` | Yes | [Link!](https://api.cycat.org/) |Free - OpenAPI|
 | defend.network | Daily-updated free JSON feed of CVEs with CVSS, EPSS, CISA KEV status and exploitation state | `none` | Yes | [Link!](https://defend.network/api/) |Free|
 | DNSai | DNS, SPF, DKIM, DMARC, WHOIS and email-security lookups | `none` | Yes | [Link!](https://dnsai.com/api/) |Free/Commercial|
+| Domain Info | DNS records, SPF, DMARC and verified TLS certificate expiry | `none` | Yes | [Link!](https://dns.lifestep.io/) |Free|
 | DomScan | Domain, DNS, WHOIS/RDAP, TLS, subdomain, reputation and brand intelligence | `apiKey` | Yes | [Link!](https://domscan.net/docs) |Free/Commercial|
 | Domaintools | Commercial Threat Intel  | `apiKey` | Yes | [Link!](https://www.domaintools.com/products/api-integration/) |Commercial|
 | Dragos WorldView | ICS Threat Intelligence  | `apiKey` | Yes | [Link!](https://portal.dragos.com/api/v1/doc/) |Commercial|
