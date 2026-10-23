@@ -64,6 +64,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MaxMind | GeoIP and More  | `apiKey` | Yes | [Link!](https://dev.maxmind.com/) |?|
 | Microsoft Security Response Center API | Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)  | `None` | Yes | [Link!](https://msrc.microsoft.com/report/developer) |Free|
 | MWDB | The MWDB system (also known as the “Malware Database”) is a repository for storing malware samples and information acquired during their analysis  | `apiKey` | Yes | [Link!](https://mwdb.readthedocs.io/en/latest/user-guide/8-REST-and-mwdblib.html) |Free|
+| NetAPI | Domain lists and datasets per TLD (DNS, IP, WHOIS dates), newly registered and deleted domains, domain and reverse IP lookup, free compromised domain / IP feeds and a Top 1M list | `apiKey` | Yes | [Link!](https://netapi.com/help/api/) |Free/Commercial|
 | NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Onyphe | Search Engine for internet connected devices   | `apiKey` | Yes | [Link!](https://www.onyphe.io/) |Free/Commercial|
 | ORKL.eu | Search Engine for intel reports   | `apiKey` | Yes | [Link!](https://orkl.eu) |Free (API rate limited)|
