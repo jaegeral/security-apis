@@ -71,6 +71,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/doc_api) |?|
 | Pentestnet | Vuln Scanner  | `apiKey` | Yes | [Link!](https://pentestnet.com/api-docs) |Commercial|
 | Phishtank |  | `?` | Yes | [Link!](http://www.phishtank.com/developer_info.php) |?|
+| Proxmint Free Proxy List | Open HTTP/HTTPS/SOCKS4/SOCKS5 proxies, each re-tested every 30 minutes through a real request. JSON or plain text, filter by country, protocol and anonymity (60 req/min) | None | Yes | [Link!](https://proxmint.com/free-proxies#api) |Free (CC BY 4.0)|
 | ProxySpace | Proxy servers, proxy judge and IP geolocation | None | Yes | [Link!](https://proxyspace.pro) |Free|
 | Pulsedive | Free threat intelligence platform ingesting over 50 OSINT feeds and user submissions. | `apiKey` | Yes | [Link!](https://pulsedive.com/api/) |Both|
 | Qualys SSLLabs | Test SSL and more | `apiKey` | Yes | [Link!](https://www.ssllabs.com/projects/ssllabs-apis/) |?|
