@@ -85,6 +85,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Shodan.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://developer.shodan.io/) |Free/Commercial|
 | SniffCat | IP abuse lookup, reporting and threat intelligence | `apiKey` | Yes | [Link!](https://sniffcat.com/documentation/api) | Free |
 | StalkPhish.io | Phishing/brand impersonation detection feed | `apiKey` | Yes | [Link!](https://www.stalkphish.io/) |Free/Commercial|
+| Tanod | Pay-per-call DNS, SPF/DMARC, TLS and RDAP lookups, onchain address risk checks, and Solidity contract and MCP package scans; pay with x402 USDC, free daily allowance per IP | `none` | Yes | [Link!](https://tanod.dev/openapi.json) |Free/Commercial|
 | Tenable | ? | `?` | Yes | [Link!](https://cloud.tenable.com/api#/overview) |?|
 | Team Cymru | Threat Intel | `apiKey` | Yes | [Link!](http://www.team-cymru.org/services.html) |Both|
 | ThreatConnect | Threat Intel / SOC platform  | `apiKey` | Yes | [Link!](https://docs.threatconnect.com/en/latest/) |Commercial|
