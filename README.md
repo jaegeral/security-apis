@@ -55,6 +55,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | IPGeolocation | IP Geolocation API with security threat intel (VPN, proxy, Tor, bot detection), ASN, abuse-contact data, and more (timezone, company, hostname) | `apiKey` | Yes | [Link!](https://ipgeolocation.io) | Free/Commercial|
 | IP ASN History (D4 Project - CIRCL) | IP and BGP intelligence | `none` | Yes |[Link!](https://github.com/D4-project/IPASN-History)|Free|
 | IPinfo | IP location, ASN, VPN detection and more | `none` | Yes | [Link!](https://ipinfo.io) |Both|
+| ICHI | Daily internet cyber-health barometer — composite score, scored dimensions, and confirmed-incident ledger aggregated from 20+ named public sources (CISA KEV, NVD, DShield, and others); no API key required, CORS-open | `none` | Yes | [Link!](https://ichi.global/data) |Free|
 | IPASIS | Real-time bot detection, IP reputation, proxy/VPN detection, and email validation API | `apiKey` | Yes | [Link!](https://ipasis.com) |Free/Commercial|
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
