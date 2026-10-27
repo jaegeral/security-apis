@@ -66,6 +66,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | MWDB | The MWDB system (also known as the “Malware Database”) is a repository for storing malware samples and information acquired during their analysis  | `apiKey` | Yes | [Link!](https://mwdb.readthedocs.io/en/latest/user-guide/8-REST-and-mwdblib.html) |Free|
 | NeutrinoAPI | IP Blocklist API  | `apiKey` | Yes | [Link!](https://www.neutrinoapi.com/api/ip-blocklist/) |?|
 | Onyphe | Search Engine for internet connected devices   | `apiKey` | Yes | [Link!](https://www.onyphe.io/) |Free/Commercial|
+| Opsis | Find the accounts linked to an email address, username or domain across 1000+ source modules | `apiKey` | Yes | [Link!](https://useopsis.com/docs/api) |Both, API commercial only|
 | ORKL.eu | Search Engine for intel reports   | `apiKey` | Yes | [Link!](https://orkl.eu) |Free (API rate limited)|
 | Passive Total | Threat Intel | `apiKey` | Yes | [Link!](https://api.passivetotal.org/api/docs/) |?|
 | Pastebin |  | `apiKey` | Yes | [Link!](https://pastebin.com/doc_api) |?|
