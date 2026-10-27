@@ -42,6 +42,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | EmailRep | Free API to query email reputation and report malicious senders | none | Yes | [Link!](https://blog.sublimesecurity.com/emailrep-query-and-report) | Free |
 | emergingthreats.net | Domain / IP intelligence and reputation | `apiKey` | Yes | [Link!](http://apidocs.emergingthreats.net/) |?|
 | Farsight DNSDB Passive DNS | Passive DNS and more | `apiKey` | Yes | [Link!](https://api.dnsdb.info/) |?|
+| Fidro | Fraud detection API with VPN, proxy, Tor and datacenter IP detection, email validation and Stripe payment signals | `apiKey` | Yes | [Link!](https://fidro.io) |Free/Commercial|
 | FIRST.org | Incident Response Teams API | `none` | Yes | [Link!](https://api.first.org/) |?|
 | Flashpoint Intel | Threat Intel | `apiKey` | Yes | [Link!](https://www.flashpoint-intel.com/api/) |?|
 | Flexera | Vuln Management | `apiKey` | Yes | [Link!](http://helpnet.flexerasoftware.com/svm/api/Default.htm) |?|
