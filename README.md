@@ -22,6 +22,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
 | CriminalIP.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.criminalip.io/) |Free/Commercial|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
+| Breach House | Search ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email | `apiKey` | Yes | [Link!](https://breach.house/docs) |Commercial|
 | caprivacy.github.io | California Privacy Directory  | None | Yes | [Link!](https://caprivacy.github.io/caprivacy/) |?|
 | censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
 | CIRCL CVE Search | CVE Search | `none` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
@@ -51,6 +52,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | GreyNoise | GreyNoise is a system that collects and analyzes data on Internet-wide scanners. | `apiKey` | Yes | [Link!](https://github.com/GreyNoise-Intelligence/api.greynoise.io) |Free/Commercial|
 | HackerOne | Query HackerOne reports | `apiKey` | Yes | [Link!](https://api.hackerone.com/docs/v1) |?|
 | have i been pwned | [unofficial endpoints](apidocs/haveIBeenPwned.md) | `apiKey` | Yes | [Link!](https://haveibeenpwned.com/API/v3) |?|
+| Have I Been Ransomed? | Check whether an email, phone number or company domain appears in ransomware leak-site posts, stealer logs or traditional breaches | `apiKey` | Yes | [Link!](https://haveibeenransom.com/howapi) |Commercial|
 | Hybrid Analysis | Online Sandbox | `none` | Yes | [Link!](https://www.hybrid-analysis.com/docs/api/v2) |Free|
 | IPGeolocation | IP Geolocation API with security threat intel (VPN, proxy, Tor, bot detection), ASN, abuse-contact data, and more (timezone, company, hostname) | `apiKey` | Yes | [Link!](https://ipgeolocation.io) | Free/Commercial|
 | IP ASN History (D4 Project - CIRCL) | IP and BGP intelligence | `none` | Yes |[Link!](https://github.com/D4-project/IPASN-History)|Free|
