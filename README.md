@@ -19,6 +19,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 |---|---|---|---|---|---|
 | ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
 | attachmentAV | Virus and Malware Scan API  | `apiKey` | Yes | [Link!](https://attachmentav.com/solution/virus-malware-scan-api/) |Commercial (free trial)|
+| Bewary | Scam checks for URLs, domains, IPs, phone numbers, emails, crypto wallets and IBANs, with verdicts and reason codes | `apiKey` | Yes | [Link!](https://bewary.app/docs) |Free/Commercial|
 | BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
 | CriminalIP.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.criminalip.io/) |Free/Commercial|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
