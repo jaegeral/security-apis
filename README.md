@@ -20,11 +20,10 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | ANY.RUN | Interactive malware analysis service.  | `apiKey` | Yes | [Link!](https://any.run/api-documentation/) |Both, API commercial only|
 | attachmentAV | Virus and Malware Scan API  | `apiKey` | Yes | [Link!](https://attachmentav.com/solution/virus-malware-scan-api/) |Commercial (free trial)|
 | Bewary | Scam checks for URLs, domains, IPs, phone numbers, emails, crypto wallets and IBANs, with verdicts and reason codes | `apiKey` | Yes | [Link!](https://bewary.app/docs) |Free/Commercial|
-| BinaryEdge.io | Search Engine for internet connected devices and Honeypot Network | `apiKey` | Yes | [Link!](https://binaryedge.io/) |Free/Commercial|
 | CriminalIP.io | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.criminalip.io/) |Free/Commercial|
 | Bluecoat Site Review | URL Analysis | `none` | Yes | [Link!](https://sitereview.bluecoat.com/sitereview.jsp) |Free|
 | caprivacy.github.io | California Privacy Directory  | None | Yes | [Link!](https://caprivacy.github.io/caprivacy/) |?|
-| censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://censys.io/api) |?|
+| censys.io | Free for Researchers Threat Intel  | `apiKey` | Yes | [Link!](https://docs.censys.com/reference/get-started) |?|
 | CIRCL CVE Search | CVE Search | `none` | Yes | [Link!](https://cve.circl.lu/api/) |Free|
 | CIRCL hashlookup | File hash lookup | `none` | Yes | [Link!](https://hashlookup.circl.lu/) |Free|
 | CIRCL Passive SSH | Passive SSH | `ApiKey` | Yes | [Link!](https://github.com/D4-project/passive-ssh#api) |Free for security teams|
@@ -118,7 +117,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Metasploit | Exploiting | `apiKey` | Yes | [Link!](http://rapid7.github.io/metasploit-framework/api/) |Commercial|
 | Moloch | Moloch is an open source, large scale, full packet capturing, indexing, and database system. | `?` | Yes | [Link!](https://github.com/aol/moloch/wiki/API) |OpenSource|
 | OTRS | Open Ticket Relay System | `apiKey` | Yes | [Link!](https://doc.otrs.com/doc/api/otrs/8.0/Perl/) |?|
-| Plaso | Plaso Langar Að Safna Öllu | `apiKey` | Yes | [Link!](https://readthedocs.org/projects/plaso-api/) |OpenSource|
+| Plaso | Plaso Langar Að Safna Öllu | `apiKey` | Yes | [Link!](https://plaso.readthedocs.io/en/stable/sources/api/plaso.html) |OpenSource|
 | Recorded Future | Threat Intelligence Platform | `apiKey` | Yes | [Link!](https://api.recordedfuture.com/index.html) |?|
 | Request Tracker | Ticketing System | `apiKey` | Yes | [Link!](https://rt-wiki.bestpractical.com/wiki/REST) [REST2](https://metacpan.org/pod/RT::Extension::REST2) |?|
 | Scot | SCOT - Sandia Cyber Omni Tracker Ticketing System | `apiKey` | Yes | [Link!](http://scot.readthedocs.io/en/latest/devguide.html#scot-rest-api) |Free|
