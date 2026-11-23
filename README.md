@@ -98,6 +98,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | Valhalla | Online repository of curated yara rules | `apiKey` | Yes | [Link!](https://valhalla.nextron-systems.com/) |Commercial|
 | VirusTotal | VirusTotal File/URL Analysis | `apiKey` | Yes | [Link!](https://www.virustotal.com/en/documentation/public-api/) |?|
 | vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://docs.vulners.com/docs/api/) |?|
+| W System | EU/UN/OFAC/UK sanctions screening, plus free official EU company-registry lookup, VAT (VIES) and EORI | `apiKey` | Yes | [Link!](https://api.wsystem.dev/docs) |Free/Commercial|
 | whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
 | Zoomeye | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.zoomeye.ai/doc) |Both|
 
