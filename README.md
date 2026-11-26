@@ -57,6 +57,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | IPinfo | IP location, ASN, VPN detection and more | `none` | Yes | [Link!](https://ipinfo.io) |Both|
 | ICHI | Daily internet cyber-health barometer — composite score, scored dimensions, and confirmed-incident ledger aggregated from 20+ named public sources (CISA KEV, NVD, DShield, and others); no API key required, CORS-open | `none` | Yes | [Link!](https://ichi.global/data) |Free|
 | IPASIS | Real-time bot detection, IP reputation, proxy/VPN detection, and email validation API | `apiKey` | Yes | [Link!](https://ipasis.com) |Free/Commercial|
+| IPWho | IPv4 and IPv6 geolocation, ASN, ISP, VPN, Tor and threat-level signals | `apiKey` | Yes | [Link!](https://www.ipwho.org/docs) | Free/Commercial |
 | MAlshare | Malware Sharing  | `apiKey` | Yes | [Link!](https://malshare.com/doc.php) |?|
 | Mac Vendor Lookup | Threat Intel  | `apiKey` | Yes | [Link!](https://macvendors.com/api) |?|
 | MAC address API | Threat Intel  | `apiKey` | Yes | [Link!](https://macaddress.io/api-documentation) |Commercial|
